@@ -16,7 +16,6 @@ da edição sem barreiras e exposição de falhas por parte de educadores e alun
 * Criação dos manuais escolares obrigatórios de acordo com o programa lectivo vigente.
 * Obter a certificação dos mesmos por parte da Direcção Geral de Educação (DGE).
 * Fomentar a adopção dos mesmos por parte das escolas e professores.
-* Manter os manuais actualizados.
 
 ## Solução
 A solução passará pelo envolvimento de contribuidores no papel de educador,
