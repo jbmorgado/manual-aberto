@@ -3,12 +3,12 @@ Projecto de fonte aberta para a criação de manuais escolares abertos.
 Editáveis, copiáveis e utilizáveis por todos em formato gratuito.
 
 ## Objectivos
-* Garantir *acesso a manuais escolares obrigatórios em fonte aberta* e
+* Garantir **acesso a manuais escolares obrigatórios em fonte aberta** e
 escritos de acordo com o programa lectivo vigente a todos os alunos que
 frequentam os graus de escolaridade obrigatória em Portugal.
-* Permitir a *impressão dos manuais escolares a custo muito reduzido* em
+* Permitir a **impressão dos manuais escolares a custo muito reduzido** em
 relação ao preço de mercado praticado pelo sector privado.
-* Garantir a *qualidade e constante actualização dos manuais* escolares através
+* Garantir a **qualidade e constante actualização dos manuais** escolares através
 da edição sem barreiras e exposição de falhas por parte de educadores e alunos.
 
 ## Metas
