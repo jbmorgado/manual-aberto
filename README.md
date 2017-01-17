@@ -1,17 +1,19 @@
 # Manual Aberto
-Projecto de fonte aberta para a criação de manuais escolares abertos. Editáveis, copiáveis e utilizáveis por todos em formato gratuito.
+Projecto de fonte aberta para a criação de manuais escolares abertos.
+Editáveis, copiáveis e utilizáveis por todos em formato gratuito.
 
 ## Objectivos
-* Garantir acesso aos manuais escolares obrigatórios em fonte aberta e
+* Garantir *acesso a manuais escolares obrigatórios em fonte aberta* e
 escritos de acordo com o programa lectivo vigente a todos os alunos que
 frequentam os graus de escolaridade obrigatória em Portugal.
-* Permitir a impressão dos manuais escolares a custo muito reduzido em
+* Permitir a *impressão dos manuais escolares a custo muito reduzido* em
 relação ao preço de mercado praticado pelo sector privado.
-* Garantir a qualidade e constante actualização dos manuais escolares através
+* Garantir a *qualidade e constante actualização dos manuais* escolares através
 da edição sem barreiras e exposição de falhas por parte de educadores e alunos.
 
 ## Metas
 * Criação dos manuais escolares obrigatórios de acordo com o programa lectivo vigente.
+* Obter a certificação dos mesmos por parte da Direcção Geral de Educação (DGE).
 * Fomentar a adopção dos mesmos por parte das escolas e professores.
 * Manter os manuais actualizados.
 
@@ -36,6 +38,11 @@ sendo inicialmente necessário criar e escrever um conjunto de práticas padrão
 acerca dos formatos a utilizar, de como contribuir para o projecto e de qual
 deverá ser a direcção a tomar pelo mesmo a curto prazo.
 
-Para isto necessitamos portanto de contribuidores que ajudem à gestão do projecto
+Para isto **necessitamos portanto de contribuidores que ajudem à gestão do projecto
 mesmo que não se enquadrem nas capacidades descritas acima de educador, ilustrador
-ou editor.
+ou editor**.
+
+## Referências
+O processo para certificação, apreciação, seleção e adoção dos manuais escolares
+pode ser consultado em detalhe na
+[página da DGE](http://www.dge.mec.pt/manuais-escolares).
