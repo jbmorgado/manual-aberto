@@ -6,7 +6,7 @@ Editáveis, copiáveis e utilizáveis por todos em formato gratuito.
 * Garantir **acesso a manuais escolares obrigatórios em fonte aberta** e
 escritos de acordo com o programa lectivo vigente a todos os alunos que
 frequentam os graus de escolaridade obrigatória em Portugal.
-* Permitir a **impressão dos manuais escolares a custo muito reduzido** em
+* Permitir a **impressão dos manuais escolares a custo substancialmente reduzido** em
 relação ao preço de mercado praticado pelo sector privado.
 * Garantir a **qualidade e constante actualização dos manuais** escolares através
 da edição sem barreiras e exposição de falhas por parte de educadores e alunos.
