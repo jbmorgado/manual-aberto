@@ -6,8 +6,9 @@ Editáveis, copiáveis e utilizáveis por todos em formato gratuito.
 * Garantir **acesso a manuais escolares obrigatórios em fonte aberta** e
 escritos de acordo com o programa lectivo vigente a todos os alunos que
 frequentam os graus de escolaridade obrigatória em Portugal.
-* Permitir a **impressão dos manuais escolares a custo substancialmente reduzido** em
-relação ao preço de mercado praticado pelo sector privado.
+* Permitir a **impressão dos manuais escolares por alunos e escolas a custo
+substancialmente reduzido** em relação ao preço de mercado praticado pelo
+sector privado.
 * Garantir a **qualidade e constante actualização dos manuais** escolares através
 da edição sem barreiras e exposição de falhas por parte de educadores e alunos.
 
@@ -27,7 +28,8 @@ bem como apreciada a contribuição dos textos em formatos adequados ao projecto
 * Ilustradores: Criação, edição ou aproveitamento em projectos de fonte aberta
 do material gráfico dos manuais.
 * Editores: Edição dos materiais contribuídos por educadores e ilustradores de
-modo a transforma-lo num formato adequado à impressão dos manuais a baixo custo.
+modo a transforma-los num formato adequado à impressão dos manuais pelos alunos e
+escolas a baixo custo.
 
 ## Contribuição
 O projecto está neste momento a procurar a contribuição de todos os interessados
@@ -38,7 +40,7 @@ sendo inicialmente necessário criar e escrever um conjunto de práticas padrão
 acerca dos formatos a utilizar, de como contribuir para o projecto e de qual
 deverá ser a direcção a tomar pelo mesmo a curto prazo.
 
-Para isto **necessitamos portanto de contribuidores que ajudem à gestão do projecto
+Para isto **necessitamos de contribuidores que ajudem à gestão do projecto
 mesmo que não se enquadrem nas capacidades descritas acima de educador, ilustrador
 ou editor**.
 
