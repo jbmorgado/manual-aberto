@@ -47,3 +47,13 @@ ou editor**.
 O processo para certificação, apreciação, seleção e adoção dos manuais escolares
 pode ser consultado em detalhe na
 [página da DGE](http://www.dge.mec.pt/manuais-escolares).
+
+## Contactos
+As submissões para o projecto serão preferencialmente feitas directamente pelo GitHub,
+para tal os colaboradores devem fazer um "fork" do projecto. Para mais informação
+consultar [Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Forked-Public-Project).
+
+A discussão do projecto e mapa de trabalho será feita inicialmente através da
+mailling list em [Manual Aberto](https://groups.google.com/forum/#!forum/manual-aberto).
+Estamos de momento a aceitar as contribuições de todos que se juntem à mesma
+utilizando o link da mesma.
