@@ -55,5 +55,4 @@ consultar [Contributing to a Project](https://git-scm.com/book/en/v2/Distributed
 
 A discussão do projecto e mapa de trabalho será feita inicialmente através da
 mailling list em [Manual Aberto](https://groups.google.com/forum/#!forum/manual-aberto).
-Estamos de momento a aceitar as contribuições de todos que se juntem à mesma
-utilizando o link da mesma.
+Estamos de momento a aceitar as contribuições de todos para a mesma.
